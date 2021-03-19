@@ -45,7 +45,7 @@ django-haystack==2.6.1
 django-queryset-csv==1.0.0
 django-rest-auth==0.7.0
 django-rest-swagger==2.1.2
-djangorestframework==3.8.2
+djangorestframework==3.11.2
 djangorestframework-csv==2.1.0
 docker==3.7.0
 docker-compose==1.23.2

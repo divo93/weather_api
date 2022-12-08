@@ -17,7 +17,7 @@ cairocffi==0.9.0
 CairoSVG==1.0.22
 celery==4.2.1
 cement==2.8.2
-certifi==2018.11.29
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 cliapp==1.20170827
